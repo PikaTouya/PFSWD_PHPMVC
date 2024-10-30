@@ -1,0 +1,1 @@
+<h1>Halo, nama saya <?= $data['nama']?>, saya adalah seorang <?= $data['pekerjaan']?></h1>
