@@ -3,7 +3,9 @@
 class User_model{
     private $nama = 'Bayu';
 
-    public function getUser()
+    public function getUser(){
+        return $this->nama;
+    }
 }
 
 ?>
