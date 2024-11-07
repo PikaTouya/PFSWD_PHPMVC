@@ -1,5 +1,5 @@
 <?php 
 
-define('BASEURL', 'http://localhost/4malama/phpmvcmalama/public');
+define('BASEURL', 'http://localhost/pfswd_phpmvc/public');
 
 ?>
